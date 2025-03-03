@@ -1,4 +1,4 @@
-Hello World, I'm Unnati Umesh Kulkarni 👋🏽
+# **Hello World, I'm Unnati Umesh Kulkarni 👋🏽**
 
 A self-taught Full-Stack Mobile Developer.
 
@@ -20,3 +20,8 @@ Back End
 
 Node.js (JS/TS) • ⭐️
 Sprint Boot (Java/Kotlin) • ⭐️
+
+Projects
+Ecommerce using MERN stack
+Fashion Recoomendation System using AIML
+Admission Procedure Chatbot
